@@ -1,4 +1,3 @@
-document.write("<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-134864271-2\"></script><script>  window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);}  gtag(\'js\', new Date());  gtag(\'config\', \'UA-134864271-2\');</script>")
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
