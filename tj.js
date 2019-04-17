@@ -18,36 +18,3 @@ var _hmt = _hmt || [];
     var s = document.getElementsByTagName("script")[0];
     s.parentNode.insertBefore(bp, s);
 })();
-
-//if(navigator.userAgent.match(/Android/i) || navigator.userAgent.match(/ipad|iphone|mac/i)) {
-<!---移动图片--->
-
-document.writeln("<DIV id=\'lovexin122\' style=\'text-align:left;left:0px;position:fixed;top:25%;overflow:hidden;\'>");
-
-document.writeln("<a target=_blank href=http://t.cn/E6jrQU0><img border=0 src=https://lmbf88.hypertrackeraff.com/Banner/2997/11be9c18-fa9b-480f-a996-f7d6999f5662.gif  width=120 height=200 ></a><br>");
-
-document.writeln("</div>");
-
-document.writeln("<DIV id=\'lovexin102\' style=\'text-align:right;right:0px;position:fixed;top:25%;overflow:hidden;\'>");
-
-//document.writeln("<a target=_blank href=http://ldc.7788521.com><img border=0 src=https://raw.githubusercontent.com/seyuniu365/seyuniu3365/master/x6.gif  width=120 height=200 ></a><br>");
-
-<!---移动图片--->
-}else{
-<!---PC图片--->
-
-document.writeln("<DIV id=\'lovexin122\' style=\'text-align:left;left:0px;position:fixed;top:0px;overflow:hidden;\'>");
-
-document.writeln("<a target=_blank href=http://t.cn/E6jrQU0><img border=0 src=https://lmbf88.hypertrackeraff.com/Banner/2845/db8b24f4-5cb4-4f52-9d3d-940373201780.gif  width=120 height=200 ></a><br>");
-
-
-document.writeln("</div>");
-
-document.writeln("<DIV id=\'lovexin102\' style=\'text-align:right;right:0px;position:fixed;top:0px;overflow:hidden;\'>");
-
-//document.writeln("<a target=_blank href=http://ldc.7788521.com><img border=0 src=https://raw.githubusercontent.com/seyuniu365/seyuniu3365/master/x6.gif  width=120 height=200 ></a><br>");
-
-
-document.writeln("</div>");
-<!---PC图片---->
-}
